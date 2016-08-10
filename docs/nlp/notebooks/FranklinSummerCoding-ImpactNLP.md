@@ -1,8 +1,8 @@
-Who am I?
+# Impact NLP
 
-What is machine learning/intelligence (AI)?
-
-What is Deep Learning?
+- Who am I?
+- What is machine learning/intelligence (AI)?
+- What is Deep Learning?
 
 What is NLP (Natural Language Processing)?
 
